@@ -1,0 +1,5 @@
+require File.expand_path('../mcvotifier/vote', __FILE__)
+require File.expand_path('../mcvotifier/server', __FILE__)
+require File.expand_path('../mcvotifier/client', __FILE__)
+require File.expand_path('../mcvotifier/key', __FILE__)
+require File.expand_path('../mcvotifier/minecraft_server', __FILE__)
